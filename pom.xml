@@ -8,7 +8,7 @@
 		<version>2.5.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.wangewi</groupId>
+	<groupId>com.wangwei</groupId>
 	<artifactId>java-se</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>java-se</name>

@@ -1,7 +1,7 @@
 # Read Me First
 The following was discovered as part of building this project:
 
-* The original package name 'com.wangewi.java-se' is invalid and this project uses 'com.wangewi.javase' instead.
+* The original package name 'com.wangwei.java-se' is invalid and this project uses 'com.wangwei.javase' instead.
 
 # Getting Started
 
